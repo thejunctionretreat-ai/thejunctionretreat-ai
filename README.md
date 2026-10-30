@@ -1,16 +1,19 @@
-## Hi there 👋
+# The Junction Retreat.
 
-<!--
-**thejunctionretreat-ai/thejunctionretreat-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stay like a local. One renovated craftsman in the Alaska Junction, West Seattle, run as an AI-native organization.
 
-Here are some ideas to get you started:
+## How we work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Humans decide. The Chair approves every send, price, booking and publish.
+- AI builds, coordinates, reviews and verifies, each in a named role.
+- Every change is reviewed before it ships. We back up before we change and archive instead of deleting.
+- We only publish what's true: "configured", "tested" and "live" mean different things here.
+
+## What's here.
+
+- junction-retreat-media: brand card images for our posts.
+- Most operational code stays private on purpose.
+
+## Find us.
+
+[junctionretreat.com](https://junctionretreat.com) · Instagram [@junctionretreatseattle](https://www.instagram.com/junctionretreatseattle)
